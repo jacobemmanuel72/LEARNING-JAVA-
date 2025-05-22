@@ -2,7 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
         int nums[] = {7, 2, 8, 9, 5};
-        int size = num.length;
+        int size = nums.length;
         int temp = 0;
 
         System.out.println("before sorting");
